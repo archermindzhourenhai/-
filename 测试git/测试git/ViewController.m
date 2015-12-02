@@ -23,6 +23,10 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
+    
+    renhai2---------------
+    renhai2---------------
+    renhai2---------------
     // Dispose of any resources that can be recreated.
 }
 
